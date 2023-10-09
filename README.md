@@ -13,3 +13,16 @@ Additional labels for pre-release and build metadata are available as extensions
 
 ## Install the Terraform CLI
 [install the terraform cli](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)
+
+## VARIABLES
+
+### working with en vars 
+
+we can lisl all envoriabls use `env`
+
+### Persisting env vars in Gitpod
+
+```
+gp env HELLO='world'
+```
+
