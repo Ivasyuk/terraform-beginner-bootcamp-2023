@@ -26,3 +26,13 @@ we can lisl all envoriabls use `env`
 gp env HELLO='world'
 ```
 
+## AWS CLI Instalattion via the bashscript
+( ./bin/install_aws_cli)[./bin/install_aws_cli]
+
+We can check is AWS credential configuret corectly
+
+```sh
+aws sts get-caller-identity
+```
+
+[AWS CLI Env Vars](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-envvars.html)
