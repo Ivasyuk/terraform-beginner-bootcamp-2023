@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cd /workspace
+cd /workspace/
 
 if [[ -f awscliv2.zip ]]; then
     rm awscliv2.zip
