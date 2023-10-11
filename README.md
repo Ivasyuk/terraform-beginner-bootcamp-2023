@@ -36,3 +36,10 @@ aws sts get-caller-identity
 ```
 
 [AWS CLI Env Vars](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-envvars.html)
+
+## Terraform basic
+
+### Terrafrom registry
+
+Terrafrom source their providers and modules 
+[registry.terraform.io](https://registry.terraform.io/)
